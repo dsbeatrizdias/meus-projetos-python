@@ -1,18 +1,20 @@
 # Meus Projetos em Python
 
-Este repositório contém pequenos projetos desenvolvidos durante meus estudos em Python.
+Este repositório reúne projetos desenvolvidos durante meus estudos em Python, com foco em lógica de programação e prática de conceitos básicos.
 
-## Projetos
+## Estrutura
 
-### 📊 Avaliação de Notas
-Calcula a média de 3 notas informadas pelo usuário.
+- **basico/** → exercícios iniciais e fundamentos
+- **intermediario/** → projetos em desenvolvimento
+- **avancado/** → projetos futuros
 
-### 💧 Caixa d'água
-Sistema simples de cálculo de volume.
+## Tecnologias
 
-### 🌡️ Conversor de Temperatura
-Converte valores entre Celsius e Fahrenheit.
+- Python
 
-## Como rodar
+## Como executar
+
+Clone o repositório:
+
 ```bash
-python3 nome_do_arquivo.pygit add .
+git clone https://github.com/dsbeatrizdias/meus-projetos-python.git
