@@ -1,8 +1,4 @@
-# Nome: Luana Ramos Rabelo
-# RM: 570351
-# Exercicio: estudo
 
-# entrada de dados
 domingo = float(input("Horas estudadas no domingo: "))
 segunda = float(input("Horas estudadas na segunda-feira: "))
 terca = float(input("Horas estudadas na terça-feira: "))
